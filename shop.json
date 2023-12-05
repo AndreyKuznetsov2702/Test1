@@ -1,0 +1,81 @@
+[
+  {
+    "id": "1",
+    "title": "Наполеон",
+    "vendor_code": "Napoleon",
+    "description": "Многослойный торт с заварным кремом",
+    "price": 390,
+    "img": "images/nap.jpg"
+  },
+  {
+    "id": "2",
+    "title": "Красный бархат",
+    "vendor_code": "Red",
+    "description": "Необычный вкус и уникальная текстура",
+    "price": 590,
+    "img": "images/red.jpg"
+  },
+  {
+    "id": "3",
+    "title": "Медовик",
+    "vendor_code": "Medovick",
+    "description": "Настоящая классика",
+    "price": 420,
+    "img": "images/med.jpg"
+  },
+  {
+    "id": "4",
+    "title": "Прага",
+    "vendor_code": "Praga",
+    "description": "Невероятный бисквит с шоколадом",
+    "price": 430,
+    "img": "images/praga.jpg"
+  },
+  {
+    "id": "5",
+    "title": "Морковный",
+    "vendor_code": "Carrot",
+    "description": "Лучшее сочетание вкуса и пользы",
+    "price": 550,
+    "img": "images/morkov.jpg"
+  },
+  {
+    "id": "6",
+    "title": "Чизкейк",
+    "vendor_code": "Cheese",
+    "description": "Известный десерт из сливочного сыра",
+    "price": 570,
+    "img": "images/cheese.jpg"
+  },
+  {
+    "id": "7",
+    "title": "Блинный",
+    "vendor_code": "Blin",
+    "description": "Известный франзузский десерт",
+    "price": 530,
+    "img": "images/blin.jpg"
+  },
+  {
+    "id": "8",
+    "title": "Муравейник",
+    "vendor_code": "Muravei",
+    "description": "Тот самый вкус детства",
+    "price": 350,
+    "img": "images/murav.jpg"
+  },
+  {
+    "id": "9",
+    "title": "Тирамису",
+    "vendor_code": "Tiramisu",
+    "description": "Изысканный итальянский торт",
+    "price": 460,
+    "img": "images/turamisu.jpg"
+  },
+  {
+    "id": "10",
+    "title": "3 шоколада",
+    "vendor_code": "chokolad",
+    "description": "Муссовый торт",
+    "price": 380,
+    "img": "images/shoko.jpg"
+  }]
